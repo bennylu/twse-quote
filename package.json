@@ -1,0 +1,22 @@
+{
+  "name": "twse-quote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "twse-lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennylu/twse-quote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennylu/twse-quote/issues"
+  },
+  "homepage": "https://github.com/bennylu/twse-quote#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
